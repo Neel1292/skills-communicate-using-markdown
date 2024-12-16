@@ -1,6 +1,10 @@
 # This is an `<h1>` header, which is the largest
 ###### This is an `<h6>` header, which is the smallest
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 This the commit from `Neel Prajapati`
